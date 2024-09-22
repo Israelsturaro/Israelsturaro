@@ -23,11 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Israelsturaro/Israelsturaro/output/snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/Israelsturaro/Israelsturaro/blob/output/github-contribution-grid-snake.gif)
 
 <h4 align="left">Entre em contato! 📩<br><br>Sinta-se à vontade para me contatar a qualquer momento. Ficarei feliz em ajudar!<br><br>Atenciosamente,<br>Israel Sturaro 👨‍💻</h4>
 
