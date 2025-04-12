@@ -44,26 +44,11 @@
 
 <!-- Frameworks Backend -->
 <h4>Frameworks Backend</h4>
-<h4>Frameworks Backend</h4>
 <div align="left">
   <!-- Node.js -->
-  <img 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-       height="40" 
-       alt="Node.js logo" 
-  />
-
-  <img 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" 
-       height="40" 
-       alt="Quarkus logo" 
-  />
-  
-  <img 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
-       height="40" 
-       alt="Spring logo" 
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" height="40" alt="Quarkus logo"  />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
 </div>
 
 
