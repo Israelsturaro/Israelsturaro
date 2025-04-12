@@ -48,7 +48,7 @@
   <!-- Exemplo para Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <!-- Exemplo para Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg" height="40" alt="Quarkus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg" height="80" width="40" alt="Quarkus logo" />
   <!-- Exemplo para Spring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
   <!-- Adicione outros frameworks backend que você utiliza -->
