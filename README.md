@@ -26,50 +26,77 @@
   />
 </div>
 
-<!-- Caso queira adicionar troféus (opcional) 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Israelsturaro&theme=dracula&no-frame=true&column=3" alt="Troféus do GitHub" />
-</div>
--->
-
-<!-- Snake animation (para exibir seu padrão de contribuições como uma cobrinha) -->
-<div align="center">
-  <img 
-       src="https://github.com/Israelsturaro/Israelsturaro/blob/output/github-contribution-grid-snake.gif" 
-       alt="snake animation" 
-  />
-</div>
-
 ---
 
 <!-- Habilidades e Ferramentas -->
 <h3 align="left">⚒️ Tecnologias & Ferramentas:</h3>
-<div align="left">
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
 
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  
-  <!-- Angular -->
+<!-- Linguagens de Programação -->
+<h4>Linguagens de Programação</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <!-- Adicione outras linguagens que você utiliza -->
+</div>
+
+<br>
+
+<!-- Frameworks Backend -->
+<h4>Frameworks Backend</h4>
+<div align="left">
+  <!-- Exemplo para Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <!-- Exemplo para Django -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg" height="40" alt="Quarkus logo" />
+  <!-- Exemplo para Spring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
+  <!-- Adicione outros frameworks backend que você utiliza -->
+</div>
+
+<br>
+
+<!-- Frameworks Frontend -->
+<h4>Frameworks Frontend</h4>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
-  <img width="12" />
-  
-  <!-- GitLab -->
+  <!-- Exemplo para React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <!-- Exemplo para Vue.js -->
+</div>
+
+<br>
+
+<!-- Infraestrutura e DevOps -->
+<h4>Infraestrutura e DevOps</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <!-- Exemplo para GitLab CI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab logo" />
-  <img width="12" />
-  
-  <!-- (Adicione aqui outras tecnologias que você domina) -->
+  <!-- Adicione outras tecnologias DevOps que você utiliza -->
+</div>
+
+<br>
+
+<!-- Banco de Dados -->
+<h4>Banco de Dados</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+  <!-- Adicione outros bancos de dados que você utiliza -->
+</div>
+
+<br>
+
+<!-- ERPs -->
+<h4>ERP's</h4>
+<div align="left">
+  <!-- Exemplo para SAP -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="40" alt="SAP logo" />
+  <!-- Exemplo para Oracle -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" />
+  <!-- Adicione outros ERPs ou ferramentas comerciais que você utiliza -->
 </div>
 
 ---
@@ -102,8 +129,5 @@
          alt="Instagram logo" 
     />
   </a>
-
-  <!-- (Adicione outros links, se desejar) -->
+  <!-- Adicione outros links, se desejar -->
 </div>
-
----
