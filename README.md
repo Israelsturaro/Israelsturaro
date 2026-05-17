@@ -179,24 +179,6 @@ Sou **Desenvolvedor Pleno** na CIALNE, atuando full stack em um ambiente onde tu
 
 <br />
 
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
-
-## 🐍  Commits-Snake
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Israelsturaro/Israelsturaro/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Israelsturaro/Israelsturaro/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Israelsturaro/Israelsturaro/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-</div>
-
-> 💡  **Como ativar:** crie o workflow `.github/workflows/snake.yml` (instruções no final deste README).
-
-<br />
-
 <!-- ═══════════════════════════ PROJECTS HIGHLIGHT ═══════════════════════════ -->
 
 ## 🚀  Em destaque
